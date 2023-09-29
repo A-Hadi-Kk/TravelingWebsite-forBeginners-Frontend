@@ -95,3 +95,6 @@ h1 {
     cursor: pointer;
     
 }
+.btn:hover{
+    background-color: blue;
+}
